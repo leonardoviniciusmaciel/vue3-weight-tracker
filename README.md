@@ -1,6 +1,6 @@
 # Vue3 Weight Tracker
 
-> This is a simple project created to study purposes.
+> This is a simple project created for study purposes.
 
 ## Usage
 
